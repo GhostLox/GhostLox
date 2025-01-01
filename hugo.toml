@@ -7,7 +7,7 @@ languageCode = "en"
 pygmentsStyle = "monokai"
 theme = "gokarna"
 title = "GhostLox Cybersec"
-
+# Commit comment
 [params]
   avatarAltText = "avatar"
   avatarSize = "size-m"
