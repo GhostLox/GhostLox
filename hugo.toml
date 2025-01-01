@@ -1,4 +1,4 @@
-baseURL = "https://ghostlox.cybersec.com"
+baseURL = "https://ghostlox.github.io/ghostlox/"
 publishDir = "docs"
 defaultContentLanguage = "en"
 enableEmoji = true
