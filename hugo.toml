@@ -7,8 +7,8 @@ languageCode = "en"
 pygmentsStyle = "monokai"
 theme = "gokarna"
 title = "GhostLox Cybersec"
-#comment
 [params]
+  dateFormat = "2 January, 2006"
   avatarAltText = "avatar"
   avatarSize = "size-m"
   avatarURL = "/home/dr3adshax0r/Documents/quickstart/assets/static-assets/Ghostlox.webp"
