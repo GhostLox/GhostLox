@@ -16,6 +16,8 @@ type: "post"
 
 Remote File Inclusion, or RFI, invokes the tactics of a threat actor sending a specially crafted package to a target subsequently triggering it to run arbitrary code from a remote location, such as a server the threat actor is hosting.
 
+Test Test K3RNE1
+
 
 
 Additional Line
