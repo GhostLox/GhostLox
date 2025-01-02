@@ -1,11 +1,11 @@
 ---
-date: 2024-12-19
-lastmod: 2024-12-30
+date: 2024-01-02
+lastmod: 2024-01-02
 # description: ""
 # image: ""
 showTableOfContents: true 
-tags: ["RFI","Intelligence"]
-title: "IDOR Vulnerabilities"
+tags: ["Hack The Box","Linux", "Easy"]
+title: "[HTB] Sightless"
 type: "post"
 
 ---
@@ -16,8 +16,9 @@ type: "post"
 
 Remote File Inclusion, or RFI, invokes the tactics of a threat actor sending a specially crafted package to a target subsequently triggering it to run arbitrary code from a remote location, such as a server the threat actor is hosting.
 
-
 Additional Line
+
+![Example](/assets/static-assets/HTB%20Screenshots/Sightless/sales%20email.png)
 
 ## Subheading - Methodology
 
