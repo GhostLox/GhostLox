@@ -5,16 +5,13 @@ lastmod: 2024-01-03
 # image: ""
 showTableOfContents: true 
 tags: ["Hack The Box","Linux", "Easy"]
-title: "[HTB] Sightless"
+title: "HTB Sightless"
 type: "post"
 draft: "false"
 
 ---
 
-# HTB: Sightless
-Linux [Easy]
-
-![Pentest-Overview](/assets/static-assets/HTB%20Screenshots/Sightless/Sightless-ptprocess.png)
+![Pentest-Overview](../../assets/static-assets/HTB%20Screenshots/Sightless/Sightless-ptprocess.png)
 
 The Sightless machine is classified as Easy. Albiet some aspects are somewhat straightforward whilst others are more convelouted initially. The machine tests some basic port scanning, version disclosure vulnerabilities and Google 'Dorking' for CVEs. Sightless incorporates areas of Docker containers, Linux privilege escalation including unshadowing, or 'cracking' of passwords, lateral movement or pivoting. It then challenges your tunnelling knowledge to gain access to unroutable services on the system leading you to perform simple command injection where you finally gain root access and pwn the system. Overall, a good machine testing your basic networking knowledge, Linux privilege escalation, reconnaissance and enumeration, password cracking, and demonstrating a solid foundation of penetration testing.
 
