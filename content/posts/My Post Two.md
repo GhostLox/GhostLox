@@ -10,14 +10,7 @@ type: "post"
 
 ---
 
-{{< mermaid align="left" theme="neutral" >}}
-pie
-    title French Words I Know
-    "Merde" : 50
-    "Oui" : 35
-    "Alors" : 10
-    "Non" : 5
-{{< /mermaid >}}
+
 
 
 
