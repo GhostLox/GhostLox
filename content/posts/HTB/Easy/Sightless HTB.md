@@ -24,6 +24,7 @@ static
 ![Pentest-Overview](HTB%20Screenshots/Sightless/activeports.png)
 
 ![Pentest-Overview-img](content/posts/img/activeports.png)
+![Pentest-Overview-img](activeports.png)
 ![Pentest-Overview-img](/img/activeports.png)
 ![Pentest-Overview-img](/content/posts/img/activeports.png)
 
